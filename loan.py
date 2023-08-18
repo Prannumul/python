@@ -15,3 +15,7 @@ for i in range(months):
 
     print("Paid",payments,"of which",interest_paid, "was interest", end="")
     print("Now I owe", money_owed)
+
+
+    
+    
